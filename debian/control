@@ -1,0 +1,35 @@
+Source: libg15
+Section: libs
+Priority: optional
+Maintainer: Brett Smith <tanktarta@blueyonder.co.uk>
+Build-Depends: cdbs, debhelper (>= 5), autotools-dev, libusb-dev
+Standards-Version: 3.8.4
+Homepage: http://www.g15tools.com/
+
+Package: libg15-1
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libusb-0.1-4
+Description: Library for interfacing with the Logitech G15 keyboards
+ libg15 provides an API for low level control of the LCD display and
+ the extra keys on some Logitech keyboards (G11, G15)
+ .
+ This package contains the shared library and the runtime data.
+ .
+ NOTE: This is an unreleased version built for the Gnome15 project.
+ Please do not bug the original authors about problems with this package,
+ contact the Gnome15 project instead.
+
+Package: libg15-dev
+Section: libdevel
+Depends: ${misc:Depends}, libg15-1 (= ${Source-Version})
+Architecture: any
+Description: Library for interfacing with the Logitech G15 keyboards
+ libg15 provides an API for low level control of the LCD display and
+ the extra keys on some Logitech keyboards (G11, G15).
+ .
+ This package contains the header files and the static library.
+ .
+ NOTE: This is an unreleased version built for the Gnome15 project.
+ Please do not bug the original authors about problems with this package,
+ contact the Gnome15 project instead.

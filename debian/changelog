@@ -1,0 +1,67 @@
+libg15 (1.3.1-2) xenial; urgency=low
+
+  * Rebuild to fix LP#1556666
+
+ -- John Augustine <vivnet@comcast.net>  Tue, 29 Mar 2016 11:45:40 -0700
+
+libg15 (1.3.1-1) wily; urgency=low
+
+  * Fix G510/G510s read length
+
+ -- John Augustine <vivnet@comcast.net>  Thu, 01 Oct 2015 13:52:00 -0800
+
+libg15 (1.3.0-4svn324gnome15h) quantal; urgency=low
+
+  * G13 joystick occasionally sends '8'.
+
+ -- tanktarta <tanktarta@blueyonder.co.uk>  Thu, 22 Nov 2012 23:01:20 +0000
+
+libg15 (1.3.0-4svn324gnome15g) quantal; urgency=low
+
+  * G510 fixes. 
+
+ -- tanktarta <tanktarta@blueyonder.co.uk>  Wed, 13 Jun 2012 00:05:17 +0100
+
+libg15 (1.3.0-4svn324gnome15f) oneiric; urgency=low
+
+  * Rebuild.
+
+ -- Brett Smith <tanktarta@southpark.net>  Tue, 10 Jan 1012 20:14:31 +0000
+
+libg15 (1.3.0-4svn324gnome15e) oneiric; urgency=low
+
+  * Experimental G510 multimedia key support.
+
+ -- Brett Smith <tanktarta@southpark.net>  Wed, 12 Oct 2011 02:01:31 +0100
+
+libg15 (1.3.0-4svn324gnome15d) oneiric; urgency=low
+
+  * Fix to allow joystick buttons to be held at the same time as using the 
+    joystick.
+
+ -- Brett Smith <tanktarta@southpark.net>  Sun, 02 Oct 2011 13:34:08 +0100
+
+libg15 (1.3.0-4svn324gnome15c) oneiric; urgency=low
+
+  * Now supports simultaneous pressing of G19-G22 and any of the other
+    non-extended keys 
+
+ -- Brett Smith <tanktarta@southpark.net>  Thu, 22 Sep 2011 10:03:54 +0100
+
+libg15 (1.3.0-4svn324gnome15b) oneiric; urgency=low
+
+  * Added joystick support
+
+ -- Brett Smith <tanktarta@southpark.net>  Sun, 11 Sep 2011 23:14:32 +0100
+
+libg15 (1.3.0-4svn324gnome15) stable; urgency=low
+
+  * G13 fixes.
+
+ -- Brett Smith <tanktarta@blueyonder.co.uk>  Sat, 20 Aug 2011 19:21:01 +0100
+
+libg15 (1.3.0-3svn324gnome15) stable; urgency=low
+
+  * Packaged for OBS
+
+ -- Brett Smith <tanktarta@blueyonder.co.uk>  Sat, 16 Jul 2011 23:43:36 +0100

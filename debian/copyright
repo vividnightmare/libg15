@@ -1,0 +1,30 @@
+This package was debianized by Giacomo A. Catenazzi <cate@debian.org> on
+Mon, 27 Aug 2007 07:56:10 +0200.
+
+It was downloaded from http://g15tools.sourceforge.net/
+
+Upstream Authors: 
+
+    Philip Lawatsch <philip@lawatsch.at>
+    Alex Ibrado <alex@ibrado.org>
+    Anthony J. Mirabella <mirabeaj@gmail.com>
+
+Copyright: 
+
+    Copyright (C) 2006,2007	Philip Lawatsch <philip@lawatsch.at>
+				Alex Ibrado <alex@ibrado.org>
+				Anthony J. Mirabella <mirabeaj@gmail.com>
+
+License:
+
+    g15tools is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+License can be found in the file `/usr/share/common-licenses/GPL-2'.
+
+
+The Debian packaging is (C) 2007, Giacomo A. Catenazzi <cate@debian.org> and
+is licensed under the GPL v2 (or later), see `/usr/share/common-licenses/GPL-2'.
+
